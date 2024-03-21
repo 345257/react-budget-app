@@ -1,4 +1,3 @@
-import { Component } from "react";
 import "./ExpenseItem.css";
 import { MdDelete, MdEdit } from 'react-icons/md'
 
